@@ -76,15 +76,3 @@ HANGMAN_PICS = [
     five_misses,
     game_over,
 ]
-
-
-def print_title():
-    _, terminal_height = os.get_terminal_size()
-
-    banner_height = BANNER.count("\n") + 1
-    padding = (terminal_height - banner_height) // 2
-
-    os.system("clear")
-    print("\n" * padding)
-    print(BANNER)
-    print("\n" * padding)
