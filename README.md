@@ -73,6 +73,14 @@ Translate your outline or flowchart into **pseudocode**.
   - What state your program needs to track and how it will be updated
   - Control structures like loops and conditionals
 
+## If you're stuck or feeling overwhelmed
+
+Try following this [step-by-step guide](./BUILD_IN_STEPS.md).
+
+If you've outlined, pseudocoded, and started filling in the pseudocode skeleton
+but are hung up on how to write code for a particular step, the guide or the hints
+it links to may still be helpful.
+
 ## Craftsmanship
 
 For this project, let's focus on three good programming practices:
