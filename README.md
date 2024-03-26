@@ -55,9 +55,10 @@ Consider the following:
 
 ## Getting set up
 
-I'll give you a link in class to a GitHub Classroom assignment. Click the
-link and accept the assignment. This will create a new repository for you
-with a copy of the project files.
+Accept the [assignment](https://classroom.github.com/a/zHCPJY8O).
+
+This will create a new repository for you with a copy of
+the project files.
 
 Navigate to your repository and launch a Codespace.
 
